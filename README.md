@@ -1,7 +1,7 @@
 # SLERF - Multi-Chain Cryptocurrency Platform
 
 <div align="center">
-  <img src="client/public/logo.png" alt="Slerf Logo" width="200" />
+  <img src="client/public/https://i.imgur.com/v3iyenG.jpg" alt="Slerf Logo" width="200" />
   <br />
   <h3>SLERF - Hackers' Choice for Cross-Chain DeFi</h3>
   <p>A feature-rich cryptocurrency platform built on Solana with multi-chain expansion capabilities</p>
