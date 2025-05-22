@@ -216,9 +216,8 @@ Blockchain
 Contract Address
 Solana
 3omC3R1QY8VUEQnMs7oFae38Y23QqbWVGjxbjqYoXdS3
-BSC
-Coming soon
 Base
+0x233dF63325933fA3f2dac8E695Cd84bb2f91aB07
 Coming soon
 Ethereum
 Coming soon
