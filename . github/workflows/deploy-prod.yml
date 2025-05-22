@@ -1,0 +1,16 @@
+name: Deploy Production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Run Production Deployment Script
+        run: |
+          echo "Deploying Slerf Production..."
+          # Insert your deployment commands here, e.g., kubectl, helm, cloud CLI, etc.
