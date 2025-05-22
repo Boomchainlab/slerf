@@ -1,0 +1,12 @@
+messages:
+  - role: system
+    content: |-
+      example_prompts:
+        - "Deploy Slerf production now"
+        - "Run tests locally"
+        - "Trigger remote build on GitHub Actions"
+        - "Rollback last production deployment"
+        - "Show deployment status"
+  - role: user
+    content: 'Pull out the action items from this meeting transcript: {{input}}'
+model: openai/gpt-4.1
